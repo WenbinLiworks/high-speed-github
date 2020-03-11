@@ -7,4 +7,4 @@ To save time of loading github
 3.选择TTL值最小的IP<br>
 4.修改hosts（文件路径：C:\Windows\System32\drivers\etc\hosts）<br>
 5.断开网络再连接
-# 然后就可以快乐github啦哇咔咔~
+### 然后就可以快乐github啦哇咔咔~
